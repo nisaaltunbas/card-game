@@ -1,0 +1,7 @@
+/Users/nisaaltunbas/Desktop/GitHub/CardGame/CardGame/obj/Debug/CardGame.csproj.AssemblyReference.cache
+/Users/nisaaltunbas/Desktop/GitHub/CardGame/CardGame/obj/Debug/CardGame.csproj.CoreCompileInputs.cache
+/Users/nisaaltunbas/Desktop/GitHub/CardGame/CardGame/obj/Debug/PistiOyunuV2.exe
+/Users/nisaaltunbas/Desktop/GitHub/CardGame/CardGame/obj/Debug/PistiOyunuV2.pdb
+/Users/nisaaltunbas/Desktop/GitHub/CardGame/CardGame/bin/Debug/PistiOyunuV2.exe.config
+/Users/nisaaltunbas/Desktop/GitHub/CardGame/CardGame/bin/Debug/PistiOyunuV2.exe
+/Users/nisaaltunbas/Desktop/GitHub/CardGame/CardGame/bin/Debug/PistiOyunuV2.pdb

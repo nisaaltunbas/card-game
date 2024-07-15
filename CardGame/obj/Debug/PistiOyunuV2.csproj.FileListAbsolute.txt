@@ -1,0 +1,7 @@
+C:\EGITMEN YEDEK\İlker Hoca\mcsd20\PistiOyunu\PistiOyunuV2\bin\Debug\PistiOyunuV2.exe.config
+C:\EGITMEN YEDEK\İlker Hoca\mcsd20\PistiOyunu\PistiOyunuV2\bin\Debug\PistiOyunuV2.exe
+C:\EGITMEN YEDEK\İlker Hoca\mcsd20\PistiOyunu\PistiOyunuV2\bin\Debug\PistiOyunuV2.pdb
+C:\EGITMEN YEDEK\İlker Hoca\mcsd20\PistiOyunu\PistiOyunuV2\obj\Debug\PistiOyunuV2.csproj.AssemblyReference.cache
+C:\EGITMEN YEDEK\İlker Hoca\mcsd20\PistiOyunu\PistiOyunuV2\obj\Debug\PistiOyunuV2.csproj.CoreCompileInputs.cache
+C:\EGITMEN YEDEK\İlker Hoca\mcsd20\PistiOyunu\PistiOyunuV2\obj\Debug\PistiOyunuV2.exe
+C:\EGITMEN YEDEK\İlker Hoca\mcsd20\PistiOyunu\PistiOyunuV2\obj\Debug\PistiOyunuV2.pdb
